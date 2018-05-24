@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Module initial config
+ *
+ * @author Magento
+ */
+-->
+<config>
+    <modules>
+        <My_Demo>
+            <active>true</active>
+            <codePool>local</codePool>
+        </My_Demo>
+    </modules>
+</config>

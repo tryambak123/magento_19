@@ -1,0 +1,11 @@
+<config>
+	<global>
+		<models>
+			<catalog>
+				<rewrite>
+					
+				</rewrite>
+			</catalog>
+		</models>
+	</global>
+</config>
